@@ -1,0 +1,19 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"name": "Caneta",
+			"price": 5.89
+		},
+		{
+			"id": 2,
+			"name": "Post-it",
+			"price": 8.00
+		},
+		{
+			"id": 3,
+			"name": "Lápis",
+			"price": 2.00
+		}
+	]
+}
